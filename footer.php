@@ -1,5 +1,4 @@
 </div>
-
 <footer>
     <div class="container">
         © 2020 - Todos os direitos reservados.
@@ -27,5 +26,4 @@
     </script>
 </footer>
 </body>
-
 </html>

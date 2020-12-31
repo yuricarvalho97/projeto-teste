@@ -13,4 +13,3 @@ mysqli_query($conexao, $query);
 
 #Redirecionando para a página de relações
 header('location:index.php?pagina=relacoes');
-

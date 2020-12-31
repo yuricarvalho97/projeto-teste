@@ -15,4 +15,3 @@ mysqli_query($conexao, $query);
 
 #redirecionando para a página de dependentes
 header('location:index.php?pagina=dependentes');
-
